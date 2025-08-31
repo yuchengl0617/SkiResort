@@ -1,0 +1,10 @@
+ski_resort_name,2024-2025_pass,state_or_province,state_or_province_abbreviation,country,skiable_acres,base_elevation_ft,top_elevation_ft,vertical_ft,trails,historical_average_snowfall_inches,historical_average_snowfall_days,2021-2022_opening_day,2021-2022_closing_day,2022-2023_opening_day,2022-2023_closing_day,2023-2024_opening_day,2023-2024_closing_day,2021-2022_length_days,2022-2023_length_days,2023-2024_length_days,website,Weekly Pass Price (AUD),Direct Public Coach,Beginner%,Intermediate%,Advanced%,Expert%
+Falls Creek Ski Resort,Epic,Victoria,VIC,Australia,1100.0,4921,5840,919,92,61.0,19.0,2022-06-04,2022-10-02,2023-06-15,2023-09-20,2024-06-15,2024-09-13,120.0,97,90,https://www.fallscreek.com.au,1239,1,17,60,23,0
+Hotham Ski Resort,Epic,Victoria,VIC,Australia,790.0,4760,6053,1293,72,65.0,22.0,2022-06-04,2022-10-02,2023-06-10,2023-10-01,2024-06-08,2024-09-04,120.0,113,88,https://www.hotham.com.au,1400,1,8,38,43,11
+Mt Buller Ski Resort,Ikon,Victoria,VIC,Australia,740.0,4511,5840,1329,85,47.0,17.0,2022-06-04,2022-10-02,2023-06-10,2023-10-02,2024-06-08,2024-09-01,120.0,114,85,https://www.mtbuller.com.au,1260,1,5,41,51,4
+Perisher Ski Resort,Epic,New South Wales,NSW,Australia,3076.0,5640,6739,1099,110,76.0,19.0,2022-06-04,2022-10-03,2023-06-09,2023-09-25,2024-06-08,2024-09-25,121.0,108,109,https://www.perisher.com.au,1281,1,22,60,18,0
+Thredbo Ski Resort,Ikon,New South Wales,NSW,Australia,1186.0,4478,6683,2205,50,78.0,19.0,2022-06-11,2022-10-04,2023-06-20,2023-10-04,2024-06-08,2024-09-15,115.0,106,99,https://www.thredbo.com.au,1260,1,16,67,17,0
+Mt Baw Baw Ski Resort,No,Victoria,VIC,Australia,86.0,4790,5131,505,15,26.0,,,,,,,,,,,https://www.mountbawbaw.com.au,555,0,25,64,11,0
+Selwyn Ski Resort,No,New South Wales,NSW,Australia,110.0,4895,5295,400,24,,,,,,,,,,,,https://www.selwynsnow.com.au,833,0,29,42,21,8
+Charlotte Pass Ski Resort,No,New South Wales,NSW,Australia,124.0,5758,6444,686,25,,,,,,,,,,,,https://charlottepass.com.au,1148,0,32,28,0,40
+Mt Stirling Ski Resort,No,Victoria,VIC,Australia,,,,,,,,,,,,,,,,,https://www.mtstirling.com.au,469,0,20,60,20,0
